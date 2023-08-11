@@ -1,6 +1,6 @@
 ### Hello! 
 
-I am a graduate student at Boston University working on adaptive online learning. Here you can find the code of my published papers. Feel free to let me know if you need any help. 
+I am a postdoc at Harvard University working on adaptive online learning. Here you can find the code of my published papers. Feel free to let me know if you need any help. 
 
 Cheers!
 
