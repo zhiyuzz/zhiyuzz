@@ -1,6 +1,6 @@
 ### Hello! 
 
-I am a postdoc at Harvard University working on machine learning, statistics, optimization and their applications in robotics. Here you can find the code of my published papers. Feel free to let me know if you need any help. 
+I am a postdoc at Carnegie Mellon University working on the foundations of data science and automation. Here you can find the code of my published papers. Feel free to let me know if you need any help. 
 
 Cheers!
 
